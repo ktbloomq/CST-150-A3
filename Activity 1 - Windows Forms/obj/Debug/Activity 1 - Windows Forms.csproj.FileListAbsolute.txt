@@ -1,0 +1,11 @@
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\bin\Debug\Activity 1 - Windows Forms.exe.config
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\bin\Debug\Activity 1 - Windows Forms.exe
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\bin\Debug\Activity 1 - Windows Forms.pdb
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity_1___Windows_Forms.Form1.resources
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity_1___Windows_Forms.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.exe
+C:\Users\Kevin\source\repos\Activity 1 - Windows Forms\Activity 1 - Windows Forms\obj\Debug\Activity 1 - Windows Forms.pdb
